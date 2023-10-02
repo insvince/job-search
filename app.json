@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "expo-app",
-    "slug": "expo-app"
+    "slug": "expo-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "23777545-07ba-4dc8-b747-0709707514ef"
+      }
+    },
+    "android": {
+      "package": "com.expo.vince.jobsearch"
+    }
   }
 }
